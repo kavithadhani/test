@@ -1,0 +1,3 @@
+echo $SHELL
+echo "how are you"
+echo "good"
